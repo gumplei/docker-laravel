@@ -5,7 +5,7 @@ services:
     image: mysql:5.7
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: yoliving
+      MYSQL_DATABASE: chongkio2
       MYSQL_USER: dbusr
       MYSQL_PASSWORD: password123
     ports:
